@@ -1,3 +1,5 @@
+# This fork is made to add further iWADs to the list.
+
 <p align="center"><img src="https://github.com/FreaKzero/ssgl-doom-launcher/blob/latest/readme/readmelogo.png" width="350"></p>
 
 - [Current Developer Preview Release](https://github.com/FreaKzero/ssgl-doom-launcher/releases/tag/v2.0.0-devpreview.24)
